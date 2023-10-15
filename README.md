@@ -1,3 +1,5 @@
+
+(https://i.ibb.co/jLjWHXG/github-banner.jpg)
 ### Hi there 👋
 
 - 🔭 I’m currently working on the Dragon news portal project 
