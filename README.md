@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm MD Sahidul islam</h1>
 <h3 align="center">MERN stack developer and Front-end developer</h3>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=sagor369&label=Profile%20views&color=0e75b6&style=flat" alt="sagor369" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=sagor369&label=Profile%20views&color=0e75b6&style=flat" alt="sagor369" /> </p> &nbsp;
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagor369" alt="sagor369" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagor369" alt="sagor369" /></a> </p> &nbsp;
 
 <p align="left"> <a href="https://twitter.com/sahiduli369" target="blank"><img src="https://img.shields.io/twitter/follow/sahiduli369?logo=twitter&style=for-the-badge" alt="sahiduli369" /></a> </p>
 
@@ -26,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a style={border:1px; margin-right:4px} href="https://twitter.com/sahiduli369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahiduli369" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/md-sahedul-islam-sagor-90a7b8234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/md-sahedul-islam-sagor-90a7b8234" height="30" width="40" /></a>
+<a style={border:1px; margin-right:4px} href="https://twitter.com/sahiduli369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahiduli369" height="30" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/https://linkedin.com/in/md-sahedul-islam-sagor-90a7b8234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/md-sahedul-islam-sagor-90a7b8234" height="30" width="40" /></a> &nbsp;
 <a href="https://fb.com/https://www.facebook.com/sahedul369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sahedul369" height="30" width="40" /></a>
 </p>
 
