@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm MD Sahidul islam</h1>
 <h3 align="center">MERN stack developer and Front-end developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagor369&label=Profile%20views&color=0e75b6&style=flat" alt="sagor369" /> </p>
+<p align="left" style={border:1px; margin-right:4px}> <img src="https://komarev.com/ghpvc/?username=sagor369&label=Profile%20views&color=0e75b6&style=flat" alt="sagor369" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagor369" alt="sagor369" /></a> </p>
 
