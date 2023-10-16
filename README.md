@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/jLjWHXG/github-banner.jpg" alt="bannar image " />
+<img weidth="800" height="600" src="https://i.ibb.co/jLjWHXG/github-banner.jpg" alt="bannar image " />
 
 <h1 align="center">Hi 👋, I'm MD Sahidul islam</h1>
 <h3 align="center">MERN stack developer and Front-end developer</h3>
