@@ -53,9 +53,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagor369&show_icons=true&locale=en&layout=compact" alt="sagor369" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagor369&show_icons=true&locale=en" alt="sagor369" /></p>
+<!-- <img weidth="800" height="400" src="https://i.ibb.co/vv93BzW/github.png" alt="bannar image " /> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagor369&" alt="sagor369" /></p>
-<p><img align="center" weidth="800" height="400"  src="https://ibb.co/M7zw5Dd" alt="hackerrank "/></p>
+<p><img align="center" weidth="800" height="400"  src="https://i.ibb.co/TtQjqBy/Screenshot-124.png" alt="hackerrank "/></p>
 
 
 
