@@ -56,7 +56,7 @@
 <!-- <img weidth="800" height="400" src="https://i.ibb.co/vv93BzW/github.png" alt="bannar image " /> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagor369&" alt="sagor369" /></p>
-<p><img   src="https://i.ibb.co/TtQjqBy/Screenshot-124.png" alt="hackerrank "/></p>
+<img   src="https://i.ibb.co/TtQjqBy/Screenshot-124.png" alt="hackerrank "/>
 
 
 
