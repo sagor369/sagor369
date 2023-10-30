@@ -55,7 +55,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagor369&show_icons=true&locale=en" alt="sagor369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagor369&" alt="sagor369" /></p>
-<p><img align="center" src="https://www.hackerrank.com/certificates/a8c509003634" alt="sagor369"/></p>
+<p><img align="center" src="https://ibb.co/M7zw5Dd" alt="sagor369"/></p>
 
 
 
