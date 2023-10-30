@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on [Career solutions](https://career-solutions.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://my-protfolio-e3be5.web.app/](https://my-protfolio-e3be5.web.app/)
+- 👨‍💻 All of my projects are available at [https://my-protfolio-lyart.vercel.app/](https://my-protfolio-lyart.vercel.app/)
 
 - 💬 Ask me about **front-end and MERN stack**
 
